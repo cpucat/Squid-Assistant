@@ -1,6 +1,7 @@
 pip install playwright
 playwright install firefox
 
-pip3 install gTTS pyttsx3 playsound
+pip install gTTS pyttsx3
+pip install playsound==1.2.2
 
 pip install curses OR pip install windows-curses
